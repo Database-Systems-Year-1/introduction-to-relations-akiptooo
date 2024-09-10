@@ -11,5 +11,5 @@ add column Email VARCHAR(255);
 alter table employee
 drop column Email;
 	
-
+select *from employee
 	
