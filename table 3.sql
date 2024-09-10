@@ -7,3 +7,4 @@ insert into Customers(CustomerID, FirstName, LastName, Email)
 VALUES(001, Andre, Philip, ap@gmail.com);
 
 	drop table Customers;
+SELECT *from Customers
